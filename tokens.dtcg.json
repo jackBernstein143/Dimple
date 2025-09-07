@@ -1,0 +1,7973 @@
+{
+  "color-primitives-value": {
+    "Brand": {
+      "100": {
+        "value": "#F5F5F5FF",
+        "type": "color",
+        "scope": "global",
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "value"
+          }
+        }
+      },
+      "200": {
+        "value": "#E6E6E6FF",
+        "type": "color",
+        "scope": "global",
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "value"
+          }
+        }
+      },
+      "300": {
+        "value": "#D9D9D9FF",
+        "type": "color",
+        "scope": "global",
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "value"
+          }
+        }
+      },
+      "400": {
+        "value": "#B3B3B3FF",
+        "type": "color",
+        "scope": "global",
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "value"
+          }
+        }
+      },
+      "500": {
+        "value": "#757575FF",
+        "type": "color",
+        "scope": "global",
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "value"
+          }
+        }
+      },
+      "600": {
+        "value": "#444444FF",
+        "type": "color",
+        "scope": "global",
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "value"
+          }
+        }
+      },
+      "700": {
+        "value": "#383838FF",
+        "type": "color",
+        "scope": "global",
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "value"
+          }
+        }
+      },
+      "800": {
+        "value": "#2C2C2CFF",
+        "type": "color",
+        "scope": "global",
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "value"
+          }
+        }
+      },
+      "900": {
+        "value": "#1E1E1EFF",
+        "type": "color",
+        "scope": "global",
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "value"
+          }
+        }
+      },
+      "1000": {
+        "value": "#111111FF",
+        "type": "color",
+        "scope": "global",
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "value"
+          }
+        }
+      }
+    },
+    "Brand B": {
+      "100": {
+        "value": "#F5F5F5FF",
+        "type": "color",
+        "scope": "global",
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "value"
+          }
+        }
+      },
+      "200": {
+        "value": "#E6E6E6FF",
+        "type": "color",
+        "scope": "global",
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "value"
+          }
+        }
+      },
+      "300": {
+        "value": "#D9D9D9FF",
+        "type": "color",
+        "scope": "global",
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "value"
+          }
+        }
+      },
+      "400": {
+        "value": "#B3B3B3FF",
+        "type": "color",
+        "scope": "global",
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "value"
+          }
+        }
+      },
+      "500": {
+        "value": "#757575FF",
+        "type": "color",
+        "scope": "global",
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "value"
+          }
+        }
+      },
+      "600": {
+        "value": "#444444FF",
+        "type": "color",
+        "scope": "global",
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "value"
+          }
+        }
+      },
+      "700": {
+        "value": "#383838FF",
+        "type": "color",
+        "scope": "global",
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "value"
+          }
+        }
+      },
+      "800": {
+        "value": "#770000FF",
+        "type": "color",
+        "scope": "global",
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "value"
+          }
+        }
+      },
+      "900": {
+        "value": "#1E1E1EFF",
+        "type": "color",
+        "scope": "global",
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "value"
+          }
+        }
+      },
+      "1000": {
+        "value": "#111111FF",
+        "type": "color",
+        "scope": "global",
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "value"
+          }
+        }
+      }
+    },
+    "Black": {
+      "100": {
+        "value": "#0C0C0D0D",
+        "type": "color.shadow",
+        "scope": [
+          "EFFECT_COLOR"
+        ],
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "value"
+          }
+        }
+      },
+      "200": {
+        "value": "#0C0C0D1A",
+        "type": "color.shadow",
+        "scope": [
+          "EFFECT_COLOR"
+        ],
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "value"
+          }
+        }
+      },
+      "300": {
+        "value": "#0C0C0D33",
+        "type": "color.shadow",
+        "scope": [
+          "EFFECT_COLOR"
+        ],
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "value"
+          }
+        }
+      },
+      "400": {
+        "value": "#0C0C0D66",
+        "type": "color.shadow",
+        "scope": [
+          "EFFECT_COLOR"
+        ],
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "value"
+          }
+        }
+      },
+      "500": {
+        "value": "#0C0C0DB2",
+        "type": "color.shadow",
+        "scope": [
+          "EFFECT_COLOR"
+        ],
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "value"
+          }
+        }
+      },
+      "600": {
+        "value": "#0C0C0DCC",
+        "type": "color.shadow",
+        "scope": [
+          "EFFECT_COLOR"
+        ],
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "value"
+          }
+        }
+      },
+      "700": {
+        "value": "#0C0C0DD9",
+        "type": "color.shadow",
+        "scope": [
+          "EFFECT_COLOR"
+        ],
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "value"
+          }
+        }
+      },
+      "800": {
+        "value": "#0C0C0DE5",
+        "type": "color.shadow",
+        "scope": [
+          "EFFECT_COLOR"
+        ],
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "value"
+          }
+        }
+      },
+      "900": {
+        "value": "#0C0C0DF2",
+        "type": "color.shadow",
+        "scope": [
+          "EFFECT_COLOR"
+        ],
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "value"
+          }
+        }
+      },
+      "1000": {
+        "value": "#0C0C0DFF",
+        "type": "color.shadow",
+        "scope": [
+          "EFFECT_COLOR"
+        ],
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "value"
+          }
+        }
+      }
+    },
+    "White": {
+      "100": {
+        "value": "#FFFFFF0D",
+        "type": "color.shadow",
+        "scope": [
+          "EFFECT_COLOR"
+        ],
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "value"
+          }
+        }
+      },
+      "200": {
+        "value": "#FFFFFF1A",
+        "type": "color.shadow",
+        "scope": [
+          "EFFECT_COLOR"
+        ],
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "value"
+          }
+        }
+      },
+      "300": {
+        "value": "#FFFFFF33",
+        "type": "color.shadow",
+        "scope": [
+          "EFFECT_COLOR"
+        ],
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "value"
+          }
+        }
+      },
+      "400": {
+        "value": "#FFFFFF66",
+        "type": "color.shadow",
+        "scope": [
+          "EFFECT_COLOR"
+        ],
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "value"
+          }
+        }
+      },
+      "500": {
+        "value": "#FFFFFFB2",
+        "type": "color.shadow",
+        "scope": [
+          "EFFECT_COLOR"
+        ],
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "value"
+          }
+        }
+      },
+      "600": {
+        "value": "#FFFFFFCC",
+        "type": "color.shadow",
+        "scope": [
+          "EFFECT_COLOR"
+        ],
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "value"
+          }
+        }
+      },
+      "700": {
+        "value": "#FFFFFFD9",
+        "type": "color.shadow",
+        "scope": [
+          "EFFECT_COLOR"
+        ],
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "value"
+          }
+        }
+      },
+      "800": {
+        "value": "#FFFFFFE5",
+        "type": "color.shadow",
+        "scope": [
+          "EFFECT_COLOR"
+        ],
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "value"
+          }
+        }
+      },
+      "900": {
+        "value": "#FFFFFFF2",
+        "type": "color.shadow",
+        "scope": [
+          "EFFECT_COLOR"
+        ],
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "value"
+          }
+        }
+      },
+      "1000": {
+        "value": "#FFFFFFFF",
+        "type": "color.shadow",
+        "scope": [
+          "EFFECT_COLOR"
+        ],
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "value"
+          }
+        }
+      }
+    },
+    "Green": {
+      "100": {
+        "value": "#EBFFEEFF",
+        "type": "color",
+        "scope": "global",
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "value"
+          }
+        }
+      },
+      "200": {
+        "value": "#CFF7D3FF",
+        "type": "color",
+        "scope": "global",
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "value"
+          }
+        }
+      },
+      "300": {
+        "value": "#AFF4C6FF",
+        "type": "color",
+        "scope": "global",
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "value"
+          }
+        }
+      },
+      "400": {
+        "value": "#85E0A3FF",
+        "type": "color",
+        "scope": "global",
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "value"
+          }
+        }
+      },
+      "500": {
+        "value": "#14AE5CFF",
+        "type": "color",
+        "scope": "global",
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "value"
+          }
+        }
+      },
+      "600": {
+        "value": "#009951FF",
+        "type": "color",
+        "scope": "global",
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "value"
+          }
+        }
+      },
+      "700": {
+        "value": "#008043FF",
+        "type": "color",
+        "scope": "global",
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "value"
+          }
+        }
+      },
+      "800": {
+        "value": "#02542DFF",
+        "type": "color",
+        "scope": "global",
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "value"
+          }
+        }
+      },
+      "900": {
+        "value": "#024023FF",
+        "type": "color",
+        "scope": "global",
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "value"
+          }
+        }
+      },
+      "1000": {
+        "value": "#062D1BFF",
+        "type": "color",
+        "scope": "global",
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "value"
+          }
+        }
+      }
+    },
+    "Gray": {
+      "100": {
+        "value": "#F5F5F5FF",
+        "type": "color",
+        "scope": "global",
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "value"
+          }
+        }
+      },
+      "200": {
+        "value": "#E6E6E6FF",
+        "type": "color",
+        "scope": "global",
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "value"
+          }
+        }
+      },
+      "300": {
+        "value": "#D9D9D9FF",
+        "type": "color",
+        "scope": "global",
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "value"
+          }
+        }
+      },
+      "400": {
+        "value": "#B3B3B3FF",
+        "type": "color",
+        "scope": "global",
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "value"
+          }
+        }
+      },
+      "500": {
+        "value": "#757575FF",
+        "type": "color",
+        "scope": "global",
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "value"
+          }
+        }
+      },
+      "600": {
+        "value": "#444444FF",
+        "type": "color",
+        "scope": "global",
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "value"
+          }
+        }
+      },
+      "700": {
+        "value": "#383838FF",
+        "type": "color",
+        "scope": "global",
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "value"
+          }
+        }
+      },
+      "800": {
+        "value": "#2C2C2CFF",
+        "type": "color",
+        "scope": "global",
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "value"
+          }
+        }
+      },
+      "900": {
+        "value": "#1E1E1EFF",
+        "type": "color",
+        "scope": "global",
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "value"
+          }
+        }
+      },
+      "1000": {
+        "value": "#111111FF",
+        "type": "color",
+        "scope": "global",
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "value"
+          }
+        }
+      }
+    },
+    "Pink": {
+      "100": {
+        "value": "#FCF1FDFF",
+        "type": "color",
+        "scope": "global",
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "value"
+          }
+        }
+      },
+      "200": {
+        "value": "#FAE1FAFF",
+        "type": "color",
+        "scope": "global",
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "value"
+          }
+        }
+      },
+      "300": {
+        "value": "#F5C0EFFF",
+        "type": "color",
+        "scope": "global",
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "value"
+          }
+        }
+      },
+      "400": {
+        "value": "#F19EDCFF",
+        "type": "color",
+        "scope": "global",
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "value"
+          }
+        }
+      },
+      "500": {
+        "value": "#EA3FB8FF",
+        "type": "color",
+        "scope": "global",
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "value"
+          }
+        }
+      },
+      "600": {
+        "value": "#D732A8FF",
+        "type": "color",
+        "scope": "global",
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "value"
+          }
+        }
+      },
+      "700": {
+        "value": "#BA2A92FF",
+        "type": "color",
+        "scope": "global",
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "value"
+          }
+        }
+      },
+      "800": {
+        "value": "#8A226FFF",
+        "type": "color",
+        "scope": "global",
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "value"
+          }
+        }
+      },
+      "900": {
+        "value": "#57184AFF",
+        "type": "color",
+        "scope": "global",
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "value"
+          }
+        }
+      },
+      "1000": {
+        "value": "#3F1536FF",
+        "type": "color",
+        "scope": "global",
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "value"
+          }
+        }
+      }
+    },
+    "Red": {
+      "100": {
+        "value": "#FEE9E7FF",
+        "type": "color",
+        "scope": "global",
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "value"
+          }
+        }
+      },
+      "200": {
+        "value": "#FDD3D0FF",
+        "type": "color",
+        "scope": "global",
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "value"
+          }
+        }
+      },
+      "300": {
+        "value": "#FCB3ADFF",
+        "type": "color",
+        "scope": "global",
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "value"
+          }
+        }
+      },
+      "400": {
+        "value": "#F4776AFF",
+        "type": "color",
+        "scope": "global",
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "value"
+          }
+        }
+      },
+      "500": {
+        "value": "#EC221FFF",
+        "type": "color",
+        "scope": "global",
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "value"
+          }
+        }
+      },
+      "600": {
+        "value": "#C00F0CFF",
+        "type": "color",
+        "scope": "global",
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "value"
+          }
+        }
+      },
+      "700": {
+        "value": "#900B09FF",
+        "type": "color",
+        "scope": "global",
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "value"
+          }
+        }
+      },
+      "800": {
+        "value": "#690807FF",
+        "type": "color",
+        "scope": "global",
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "value"
+          }
+        }
+      },
+      "900": {
+        "value": "#4D0B0AFF",
+        "type": "color",
+        "scope": "global",
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "value"
+          }
+        }
+      },
+      "1000": {
+        "value": "#300603FF",
+        "type": "color",
+        "scope": "global",
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "value"
+          }
+        }
+      }
+    },
+    "Slate": {
+      "100": {
+        "value": "#F3F3F3FF",
+        "type": "color",
+        "scope": "global",
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "value"
+          }
+        }
+      },
+      "200": {
+        "value": "#E3E3E3FF",
+        "type": "color",
+        "scope": "global",
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "value"
+          }
+        }
+      },
+      "300": {
+        "value": "#CDCDCDFF",
+        "type": "color",
+        "scope": "global",
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "value"
+          }
+        }
+      },
+      "400": {
+        "value": "#B2B2B2FF",
+        "type": "color",
+        "scope": "global",
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "value"
+          }
+        }
+      },
+      "500": {
+        "value": "#949494FF",
+        "type": "color",
+        "scope": "global",
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "value"
+          }
+        }
+      },
+      "600": {
+        "value": "#767676FF",
+        "type": "color",
+        "scope": "global",
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "value"
+          }
+        }
+      },
+      "700": {
+        "value": "#5A5A5AFF",
+        "type": "color",
+        "scope": "global",
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "value"
+          }
+        }
+      },
+      "800": {
+        "value": "#434343FF",
+        "type": "color",
+        "scope": "global",
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "value"
+          }
+        }
+      },
+      "900": {
+        "value": "#303030FF",
+        "type": "color",
+        "scope": "global",
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "value"
+          }
+        }
+      },
+      "1000": {
+        "value": "#242424FF",
+        "type": "color",
+        "scope": "global",
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "value"
+          }
+        }
+      }
+    },
+    "Yellow": {
+      "100": {
+        "value": "#FFFBEBFF",
+        "type": "color",
+        "scope": "global",
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "value"
+          }
+        }
+      },
+      "200": {
+        "value": "#FFF1C2FF",
+        "type": "color",
+        "scope": "global",
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "value"
+          }
+        }
+      },
+      "300": {
+        "value": "#FFE8A3FF",
+        "type": "color",
+        "scope": "global",
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "value"
+          }
+        }
+      },
+      "400": {
+        "value": "#E8B931FF",
+        "type": "color",
+        "scope": "global",
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "value"
+          }
+        }
+      },
+      "500": {
+        "value": "#E5A000FF",
+        "type": "color",
+        "scope": "global",
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "value"
+          }
+        }
+      },
+      "600": {
+        "value": "#BF6A02FF",
+        "type": "color",
+        "scope": "global",
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "value"
+          }
+        }
+      },
+      "700": {
+        "value": "#975102FF",
+        "type": "color",
+        "scope": "global",
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "value"
+          }
+        }
+      },
+      "800": {
+        "value": "#682D03FF",
+        "type": "color",
+        "scope": "global",
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "value"
+          }
+        }
+      },
+      "900": {
+        "value": "#522504FF",
+        "type": "color",
+        "scope": "global",
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "value"
+          }
+        }
+      },
+      "1000": {
+        "value": "#401B01FF",
+        "type": "color",
+        "scope": "global",
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "value"
+          }
+        }
+      }
+    }
+  },
+  "color-sds light": {
+    "Background": {
+      "Default": {
+        "Default": {
+          "value": "{White.1000}",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        },
+        "Default Hover": {
+          "value": "{Gray.100}",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        },
+        "Secondary": {
+          "value": "{Gray.100}",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        },
+        "Secondary Hover": {
+          "value": "{Gray.200}",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        },
+        "Tertiary": {
+          "value": "{Gray.300}",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        },
+        "Tertiary Hover": {
+          "value": "{Gray.400}",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        }
+      },
+      "Neutral": {
+        "Default": {
+          "value": "{Slate.700}",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        },
+        "Hover": {
+          "value": "{Slate.800}",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        },
+        "Secondary": {
+          "value": "{Slate.300}",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        },
+        "Secondary Hover": {
+          "value": "{Slate.400}",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        },
+        "Tertiary": {
+          "value": "{Slate.200}",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        },
+        "Tertiary Hover": {
+          "value": "{Slate.300}",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        }
+      },
+      "Brand": {
+        "Default": {
+          "value": "{Brand.800}",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        },
+        "Hover": {
+          "value": "{Brand.900}",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        },
+        "Secondary": {
+          "value": "{Brand.200}",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        },
+        "Secondary Hover": {
+          "value": "{Brand.300}",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        },
+        "Tertiary": {
+          "value": "{Brand.100}",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        },
+        "Tertiary Hover": {
+          "value": "{Brand.200}",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        }
+      },
+      "Positive": {
+        "Default": {
+          "value": "{Green.500}",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        },
+        "Hover": {
+          "value": "{Green.600}",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        },
+        "Secondary": {
+          "value": "{Green.200}",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        },
+        "Secondary Hover": {
+          "value": "{Green.300}",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        },
+        "Tertiary": {
+          "value": "{Green.100}",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        },
+        "Tertiary Hover": {
+          "value": "{Green.200}",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        }
+      },
+      "Warning": {
+        "Default": {
+          "value": "{Yellow.400}",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        },
+        "Hover": {
+          "value": "{Yellow.500}",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        },
+        "Secondary": {
+          "value": "{Yellow.200}",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        },
+        "Secondary Hover": {
+          "value": "{Yellow.300}",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        },
+        "Tertiary": {
+          "value": "{Yellow.100}",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        },
+        "Tertiary Hover": {
+          "value": "{Yellow.200}",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        }
+      },
+      "Danger": {
+        "Default": {
+          "value": "{Red.500}",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        },
+        "Hover": {
+          "value": "{Red.600}",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        },
+        "Secondary": {
+          "value": "{Red.200}",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        },
+        "Secondary Hover": {
+          "value": "{Red.300}",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        },
+        "Tertiary": {
+          "value": "{Red.100}",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        },
+        "Tertiary Hover": {
+          "value": "{Red.200}",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        }
+      },
+      "Disabled": {
+        "Default": {
+          "value": "{Brand.300}",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        }
+      },
+      "Utilities": {
+        "Scrim": {
+          "value": "#FFFFFFCC",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        },
+        "Blanket": {
+          "value": "#000000B2",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        },
+        "Overlay": {
+          "value": "#00000080",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        },
+        "Measurement": {
+          "value": "{Pink.200}",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        }
+      }
+    },
+    "Text": {
+      "Default": {
+        "Default": {
+          "value": "{Gray.900}",
+          "type": "color.text",
+          "scope": [
+            "TEXT_FILL"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        },
+        "Secondary": {
+          "value": "{Gray.500}",
+          "type": "color.text",
+          "scope": [
+            "TEXT_FILL"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        },
+        "Tertiary": {
+          "value": "{Gray.400}",
+          "type": "color.text",
+          "scope": [
+            "TEXT_FILL"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        }
+      },
+      "Neutral": {
+        "Default": {
+          "value": "{Slate.900}",
+          "type": "color.text",
+          "scope": [
+            "TEXT_FILL"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        },
+        "Secondary": {
+          "value": "{Slate.700}",
+          "type": "color.text",
+          "scope": [
+            "TEXT_FILL"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        },
+        "Tertiary": {
+          "value": "{Slate.600}",
+          "type": "color.text",
+          "scope": [
+            "TEXT_FILL"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        },
+        "On Neutral": {
+          "value": "{Slate.100}",
+          "type": "color.text",
+          "scope": [
+            "TEXT_FILL"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        },
+        "On Neutral Secondary": {
+          "value": "{Slate.900}",
+          "type": "color.text",
+          "scope": [
+            "TEXT_FILL"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        },
+        "On Neutral Tertiary": {
+          "value": "{Slate.800}",
+          "type": "color.text",
+          "scope": [
+            "TEXT_FILL"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        }
+      },
+      "Brand": {
+        "Default": {
+          "value": "{Brand.800}",
+          "type": "color.text",
+          "scope": [
+            "TEXT_FILL"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        },
+        "Secondary": {
+          "value": "{Brand.600}",
+          "type": "color.text",
+          "scope": [
+            "TEXT_FILL"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        },
+        "Tertiary": {
+          "value": "{Brand.500}",
+          "type": "color.text",
+          "scope": [
+            "TEXT_FILL"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        },
+        "On Brand": {
+          "value": "{Brand.100}",
+          "type": "color.text",
+          "scope": [
+            "TEXT_FILL"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        },
+        "On Brand Secondary": {
+          "value": "{Brand.900}",
+          "type": "color.text",
+          "scope": [
+            "TEXT_FILL"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        },
+        "On Brand Tertiary": {
+          "value": "{Brand.800}",
+          "type": "color.text",
+          "scope": [
+            "TEXT_FILL"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        }
+      },
+      "Positive": {
+        "Default": {
+          "value": "{Green.800}",
+          "type": "color.text",
+          "scope": [
+            "TEXT_FILL"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        },
+        "Secondary": {
+          "value": "{Green.600}",
+          "type": "color.text",
+          "scope": [
+            "TEXT_FILL"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        },
+        "Tertiary": {
+          "value": "{Green.500}",
+          "type": "color.text",
+          "scope": [
+            "TEXT_FILL"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        },
+        "On Positive": {
+          "value": "{Green.100}",
+          "type": "color.text",
+          "scope": [
+            "TEXT_FILL"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        },
+        "On Positive Secondary": {
+          "value": "{Green.800}",
+          "type": "color.text",
+          "scope": [
+            "TEXT_FILL"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        },
+        "On Positive Tertiary": {
+          "value": "{Green.800}",
+          "type": "color.text",
+          "scope": [
+            "TEXT_FILL"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        }
+      },
+      "Warning": {
+        "Default": {
+          "value": "{Yellow.900}",
+          "type": "color.text",
+          "scope": [
+            "TEXT_FILL"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        },
+        "Secondary": {
+          "value": "{Yellow.700}",
+          "type": "color.text",
+          "scope": [
+            "TEXT_FILL"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        },
+        "Tertiary": {
+          "value": "{Yellow.600}",
+          "type": "color.text",
+          "scope": [
+            "TEXT_FILL"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        },
+        "On Warning": {
+          "value": "{Yellow.1000}",
+          "type": "color.text",
+          "scope": [
+            "TEXT_FILL"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        },
+        "On Warning Secondary": {
+          "value": "{Yellow.800}",
+          "type": "color.text",
+          "scope": [
+            "TEXT_FILL"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        },
+        "On Warning Tertiary": {
+          "value": "{Yellow.900}",
+          "type": "color.text",
+          "scope": [
+            "TEXT_FILL"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        }
+      },
+      "Danger": {
+        "Default": {
+          "value": "{Red.700}",
+          "type": "color.text",
+          "scope": [
+            "TEXT_FILL"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        },
+        "Secondary": {
+          "value": "{Red.600}",
+          "type": "color.text",
+          "scope": [
+            "TEXT_FILL"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        },
+        "Tertiary": {
+          "value": "{Red.500}",
+          "type": "color.text",
+          "scope": [
+            "TEXT_FILL"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        },
+        "On Danger": {
+          "value": "{Red.100}",
+          "type": "color.text",
+          "scope": [
+            "TEXT_FILL"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        },
+        "On Danger Secondary": {
+          "value": "{Red.700}",
+          "type": "color.text",
+          "scope": [
+            "TEXT_FILL"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        },
+        "On Danger Tertiary": {
+          "value": "{Red.700}",
+          "type": "color.text",
+          "scope": [
+            "TEXT_FILL"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        }
+      },
+      "Disabled": {
+        "Default": {
+          "value": "{Brand.400}",
+          "type": "color.text",
+          "scope": [
+            "TEXT_FILL"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        },
+        "On Disabled": {
+          "value": "{Brand.400}",
+          "type": "color.text",
+          "scope": [
+            "TEXT_FILL"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        }
+      },
+      "Utilities": {
+        "Text On Overlay": {
+          "value": "{Black.1000}",
+          "type": "color.text",
+          "scope": [
+            "TEXT_FILL"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        },
+        "Text On Measurement": {
+          "value": "{Pink.800}",
+          "type": "color.text",
+          "scope": [
+            "TEXT_FILL"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        }
+      }
+    },
+    "Border": {
+      "Default": {
+        "Default": {
+          "value": "{Gray.300}",
+          "type": "color.border",
+          "scope": [
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        },
+        "Secondary": {
+          "value": "{Gray.500}",
+          "type": "color.border",
+          "scope": [
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        },
+        "tertiary": {
+          "value": "{Gray.700}",
+          "type": "color.border",
+          "scope": [
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        }
+      },
+      "Neutral": {
+        "Default": {
+          "value": "{Slate.900}",
+          "type": "color.border",
+          "scope": [
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        },
+        "Secondary": {
+          "value": "{Slate.600}",
+          "type": "color.border",
+          "scope": [
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        },
+        "tertiary": {
+          "value": "{Slate.400}",
+          "type": "color.border",
+          "scope": [
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        }
+      },
+      "Brand": {
+        "Default": {
+          "value": "{Brand.800}",
+          "type": "color.border",
+          "scope": [
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        },
+        "Secondary": {
+          "value": "{Brand.600}",
+          "type": "color.border",
+          "scope": [
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        },
+        "Tertiary": {
+          "value": "{Brand.500}",
+          "type": "color.border",
+          "scope": [
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        }
+      },
+      "Positive": {
+        "Default": {
+          "value": "{Green.800}",
+          "type": "color.border",
+          "scope": [
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        },
+        "Secondary": {
+          "value": "{Green.600}",
+          "type": "color.border",
+          "scope": [
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        },
+        "tertiary": {
+          "value": "{Green.500}",
+          "type": "color.border",
+          "scope": [
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        }
+      },
+      "Warning": {
+        "Default": {
+          "value": "{Yellow.900}",
+          "type": "color.border",
+          "scope": [
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        },
+        "Secondary": {
+          "value": "{Yellow.700}",
+          "type": "color.border",
+          "scope": [
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        },
+        "tertiary": {
+          "value": "{Yellow.600}",
+          "type": "color.border",
+          "scope": [
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        }
+      },
+      "Danger": {
+        "Default": {
+          "value": "{Red.700}",
+          "type": "color.border",
+          "scope": [
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        },
+        "Secondary": {
+          "value": "{Red.600}",
+          "type": "color.border",
+          "scope": [
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        },
+        "Tertiary": {
+          "value": "{Red.500}",
+          "type": "color.border",
+          "scope": [
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        }
+      },
+      "Disabled": {
+        "default": {
+          "value": "{Brand.400}",
+          "type": "color.border",
+          "scope": [
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        }
+      },
+      "Utilities": {
+        "Measurement": {
+          "value": "{Pink.400}",
+          "type": "color.border",
+          "scope": [
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        },
+        "Swatch": {
+          "value": "#0000003D",
+          "type": "color.border",
+          "scope": [
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        }
+      }
+    },
+    "Icon": {
+      "Default": {
+        "Default": {
+          "value": "{Gray.900}",
+          "type": "color.fill",
+          "scope": [
+            "SHAPE_FILL",
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        },
+        "Secondary": {
+          "value": "{Gray.500}",
+          "type": "color.fill",
+          "scope": [
+            "SHAPE_FILL",
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        },
+        "Tertiary": {
+          "value": "{Gray.400}",
+          "type": "color.fill",
+          "scope": [
+            "SHAPE_FILL",
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        }
+      },
+      "Neutral": {
+        "Default": {
+          "value": "{Slate.900}",
+          "type": "color.fill",
+          "scope": [
+            "SHAPE_FILL",
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        },
+        "Secondary": {
+          "value": "{Slate.700}",
+          "type": "color.fill",
+          "scope": [
+            "SHAPE_FILL",
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        },
+        "Tertiary": {
+          "value": "{Slate.600}",
+          "type": "color.fill",
+          "scope": [
+            "SHAPE_FILL",
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        },
+        "On Neutral": {
+          "value": "{Slate.100}",
+          "type": "color.fill",
+          "scope": [
+            "SHAPE_FILL",
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        },
+        "On Neutral Secondary": {
+          "value": "{Slate.900}",
+          "type": "color.fill",
+          "scope": [
+            "SHAPE_FILL",
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        },
+        "On Neutral Tertiary": {
+          "value": "{Slate.800}",
+          "type": "color.fill",
+          "scope": [
+            "SHAPE_FILL",
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        }
+      },
+      "Brand": {
+        "Default": {
+          "value": "{Brand.800}",
+          "type": "color.fill",
+          "scope": [
+            "SHAPE_FILL",
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        },
+        "Secondary": {
+          "value": "{Brand.600}",
+          "type": "color.fill",
+          "scope": [
+            "SHAPE_FILL",
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        },
+        "Tertiary": {
+          "value": "{Brand.500}",
+          "type": "color.fill",
+          "scope": [
+            "SHAPE_FILL",
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        },
+        "On Brand": {
+          "value": "{Brand.100}",
+          "type": "color.fill",
+          "scope": [
+            "SHAPE_FILL",
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        },
+        "On Brand Secondary": {
+          "value": "{Brand.900}",
+          "type": "color.fill",
+          "scope": [
+            "SHAPE_FILL",
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        },
+        "On Brand Tertiary": {
+          "value": "{Brand.800}",
+          "type": "color.fill",
+          "scope": [
+            "SHAPE_FILL",
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        }
+      },
+      "Positive": {
+        "Default": {
+          "value": "{Green.800}",
+          "type": "color.fill",
+          "scope": [
+            "SHAPE_FILL",
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        },
+        "Secondary": {
+          "value": "{Green.600}",
+          "type": "color.fill",
+          "scope": [
+            "SHAPE_FILL",
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        },
+        "Tertiary": {
+          "value": "{Green.500}",
+          "type": "color.fill",
+          "scope": [
+            "SHAPE_FILL",
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        },
+        "On Positive": {
+          "value": "{Green.100}",
+          "type": "color.fill",
+          "scope": [
+            "SHAPE_FILL",
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        },
+        "On Positive Secondary": {
+          "value": "{Green.800}",
+          "type": "color.fill",
+          "scope": [
+            "SHAPE_FILL",
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        },
+        "On Positive Tertiary": {
+          "value": "{Green.900}",
+          "type": "color.fill",
+          "scope": [
+            "SHAPE_FILL",
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        }
+      },
+      "Warning": {
+        "Default": {
+          "value": "{Yellow.900}",
+          "type": "color.fill",
+          "scope": [
+            "SHAPE_FILL",
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        },
+        "Secondary": {
+          "value": "{Yellow.700}",
+          "type": "color.fill",
+          "scope": [
+            "SHAPE_FILL",
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        },
+        "Tertiary": {
+          "value": "{Yellow.600}",
+          "type": "color.fill",
+          "scope": [
+            "SHAPE_FILL",
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        },
+        "On Warning": {
+          "value": "{Yellow.1000}",
+          "type": "color.fill",
+          "scope": [
+            "SHAPE_FILL",
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        },
+        "On Warning Secondary": {
+          "value": "{Yellow.800}",
+          "type": "color.fill",
+          "scope": [
+            "SHAPE_FILL",
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        },
+        "On Warning Tertiary": {
+          "value": "{Yellow.900}",
+          "type": "color.fill",
+          "scope": [
+            "SHAPE_FILL",
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        }
+      },
+      "Danger": {
+        "Default": {
+          "value": "{Red.700}",
+          "type": "color.fill",
+          "scope": [
+            "SHAPE_FILL",
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        },
+        "Secondary": {
+          "value": "{Red.600}",
+          "type": "color.fill",
+          "scope": [
+            "SHAPE_FILL",
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        },
+        "Tertiary": {
+          "value": "{Red.500}",
+          "type": "color.fill",
+          "scope": [
+            "SHAPE_FILL",
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        },
+        "On Danger": {
+          "value": "{Red.100}",
+          "type": "color.fill",
+          "scope": [
+            "SHAPE_FILL",
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        },
+        "On Danger Secondary": {
+          "value": "{Red.700}",
+          "type": "color.fill",
+          "scope": [
+            "SHAPE_FILL",
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        },
+        "On Danger Tertiary": {
+          "value": "{Red.700}",
+          "type": "color.fill",
+          "scope": [
+            "SHAPE_FILL",
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        }
+      },
+      "Disabled": {
+        "Default": {
+          "value": "{Brand.400}",
+          "type": "color.fill",
+          "scope": [
+            "SHAPE_FILL",
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        },
+        "On Disabled": {
+          "value": "{Brand.400}",
+          "type": "color.fill",
+          "scope": [
+            "SHAPE_FILL",
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        }
+      },
+      "Utilities": {
+        "Icon": {
+          "value": "{Pink.600}",
+          "type": "color.fill",
+          "scope": [
+            "SHAPE_FILL",
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        },
+        "Icon On Measurement": {
+          "value": "{Pink.800}",
+          "type": "color.fill",
+          "scope": [
+            "SHAPE_FILL",
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds light"
+            }
+          }
+        }
+      }
+    }
+  },
+  "color-sds dark": {
+    "Background": {
+      "Default": {
+        "Default": {
+          "value": "{Gray.900}",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        },
+        "Default Hover": {
+          "value": "{Gray.700}",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        },
+        "Secondary": {
+          "value": "{Gray.800}",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        },
+        "Secondary Hover": {
+          "value": "{Gray.900}",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        },
+        "Tertiary": {
+          "value": "{Gray.600}",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        },
+        "Tertiary Hover": {
+          "value": "{Gray.700}",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        }
+      },
+      "Neutral": {
+        "Default": {
+          "value": "{Slate.400}",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        },
+        "Hover": {
+          "value": "{Slate.500}",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        },
+        "Secondary": {
+          "value": "{Slate.900}",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        },
+        "Secondary Hover": {
+          "value": "{Slate.1000}",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        },
+        "Tertiary": {
+          "value": "{Slate.900}",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        },
+        "Tertiary Hover": {
+          "value": "{Slate.1000}",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        }
+      },
+      "Brand": {
+        "Default": {
+          "value": "{Brand.100}",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        },
+        "Hover": {
+          "value": "{Brand.300}",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        },
+        "Secondary": {
+          "value": "{Brand.600}",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        },
+        "Secondary Hover": {
+          "value": "{Brand.500}",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        },
+        "Tertiary": {
+          "value": "{Brand.600}",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        },
+        "Tertiary Hover": {
+          "value": "{Brand.800}",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        }
+      },
+      "Positive": {
+        "Default": {
+          "value": "{Green.700}",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        },
+        "Hover": {
+          "value": "{Green.800}",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        },
+        "Secondary": {
+          "value": "{Green.800}",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        },
+        "Secondary Hover": {
+          "value": "{Green.900}",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        },
+        "Tertiary": {
+          "value": "{Green.900}",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        },
+        "Tertiary Hover": {
+          "value": "{Green.1000}",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        }
+      },
+      "Warning": {
+        "Default": {
+          "value": "{Yellow.400}",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        },
+        "Hover": {
+          "value": "{Yellow.500}",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        },
+        "Secondary": {
+          "value": "{Yellow.800}",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        },
+        "Secondary Hover": {
+          "value": "{Yellow.900}",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        },
+        "Tertiary": {
+          "value": "{Yellow.900}",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        },
+        "Tertiary Hover": {
+          "value": "{Yellow.1000}",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        }
+      },
+      "Danger": {
+        "Default": {
+          "value": "{Red.600}",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        },
+        "Hover": {
+          "value": "{Red.700}",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        },
+        "Secondary": {
+          "value": "{Red.800}",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        },
+        "Secondary Hover": {
+          "value": "{Red.900}",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        },
+        "Tertiary": {
+          "value": "{Red.900}",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        },
+        "Tertiary Hover": {
+          "value": "{Red.1000}",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        }
+      },
+      "Disabled": {
+        "Default": {
+          "value": "{Brand.700}",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        }
+      },
+      "Utilities": {
+        "Scrim": {
+          "value": "#000000CC",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        },
+        "Blanket": {
+          "value": "#000000B2",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        },
+        "Overlay": {
+          "value": "#00000080",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        },
+        "Measurement": {
+          "value": "{Pink.800}",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        }
+      }
+    },
+    "Text": {
+      "Default": {
+        "Default": {
+          "value": "{White.1000}",
+          "type": "color.text",
+          "scope": [
+            "TEXT_FILL"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        },
+        "Secondary": {
+          "value": "{White.500}",
+          "type": "color.text",
+          "scope": [
+            "TEXT_FILL"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        },
+        "Tertiary": {
+          "value": "{White.400}",
+          "type": "color.text",
+          "scope": [
+            "TEXT_FILL"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        }
+      },
+      "Neutral": {
+        "Default": {
+          "value": "{Slate.200}",
+          "type": "color.text",
+          "scope": [
+            "TEXT_FILL"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        },
+        "Secondary": {
+          "value": "{Slate.300}",
+          "type": "color.text",
+          "scope": [
+            "TEXT_FILL"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        },
+        "Tertiary": {
+          "value": "{Slate.400}",
+          "type": "color.text",
+          "scope": [
+            "TEXT_FILL"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        },
+        "On Neutral": {
+          "value": "{Slate.1000}",
+          "type": "color.text",
+          "scope": [
+            "TEXT_FILL"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        },
+        "On Neutral Secondary": {
+          "value": "{Slate.100}",
+          "type": "color.text",
+          "scope": [
+            "TEXT_FILL"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        },
+        "On Neutral Tertiary": {
+          "value": "{Slate.100}",
+          "type": "color.text",
+          "scope": [
+            "TEXT_FILL"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        }
+      },
+      "Brand": {
+        "Default": {
+          "value": "{Brand.100}",
+          "type": "color.text",
+          "scope": [
+            "TEXT_FILL"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        },
+        "Secondary": {
+          "value": "{Brand.300}",
+          "type": "color.text",
+          "scope": [
+            "TEXT_FILL"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        },
+        "Tertiary": {
+          "value": "{Brand.400}",
+          "type": "color.text",
+          "scope": [
+            "TEXT_FILL"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        },
+        "On Brand": {
+          "value": "{Brand.900}",
+          "type": "color.text",
+          "scope": [
+            "TEXT_FILL"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        },
+        "On Brand Secondary": {
+          "value": "{Brand.100}",
+          "type": "color.text",
+          "scope": [
+            "TEXT_FILL"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        },
+        "On Brand Tertiary": {
+          "value": "{Brand.100}",
+          "type": "color.text",
+          "scope": [
+            "TEXT_FILL"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        }
+      },
+      "Positive": {
+        "Default": {
+          "value": "{Green.200}",
+          "type": "color.text",
+          "scope": [
+            "TEXT_FILL"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        },
+        "Secondary": {
+          "value": "{Green.400}",
+          "type": "color.text",
+          "scope": [
+            "TEXT_FILL"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        },
+        "Tertiary": {
+          "value": "{Green.600}",
+          "type": "color.text",
+          "scope": [
+            "TEXT_FILL"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        },
+        "On Positive": {
+          "value": "{Green.100}",
+          "type": "color.text",
+          "scope": [
+            "TEXT_FILL"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        },
+        "On Positive Secondary": {
+          "value": "{Green.100}",
+          "type": "color.text",
+          "scope": [
+            "TEXT_FILL"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        },
+        "On Positive Tertiary": {
+          "value": "{Green.100}",
+          "type": "color.text",
+          "scope": [
+            "TEXT_FILL"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        }
+      },
+      "Warning": {
+        "Default": {
+          "value": "{Yellow.200}",
+          "type": "color.text",
+          "scope": [
+            "TEXT_FILL"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        },
+        "Secondary": {
+          "value": "{Yellow.400}",
+          "type": "color.text",
+          "scope": [
+            "TEXT_FILL"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        },
+        "Tertiary": {
+          "value": "{Yellow.600}",
+          "type": "color.text",
+          "scope": [
+            "TEXT_FILL"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        },
+        "On Warning": {
+          "value": "{Yellow.1000}",
+          "type": "color.text",
+          "scope": [
+            "TEXT_FILL"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        },
+        "On Warning Secondary": {
+          "value": "{Yellow.100}",
+          "type": "color.text",
+          "scope": [
+            "TEXT_FILL"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        },
+        "On Warning Tertiary": {
+          "value": "{Yellow.100}",
+          "type": "color.text",
+          "scope": [
+            "TEXT_FILL"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        }
+      },
+      "Danger": {
+        "Default": {
+          "value": "{Red.200}",
+          "type": "color.text",
+          "scope": [
+            "TEXT_FILL"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        },
+        "Secondary": {
+          "value": "{Red.400}",
+          "type": "color.text",
+          "scope": [
+            "TEXT_FILL"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        },
+        "Tertiary": {
+          "value": "{Red.500}",
+          "type": "color.text",
+          "scope": [
+            "TEXT_FILL"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        },
+        "On Danger": {
+          "value": "{Red.100}",
+          "type": "color.text",
+          "scope": [
+            "TEXT_FILL"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        },
+        "On Danger Secondary": {
+          "value": "{Red.100}",
+          "type": "color.text",
+          "scope": [
+            "TEXT_FILL"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        },
+        "On Danger Tertiary": {
+          "value": "{Red.100}",
+          "type": "color.text",
+          "scope": [
+            "TEXT_FILL"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        }
+      },
+      "Disabled": {
+        "Default": {
+          "value": "{Brand.500}",
+          "type": "color.text",
+          "scope": [
+            "TEXT_FILL"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        },
+        "On Disabled": {
+          "value": "{Brand.400}",
+          "type": "color.text",
+          "scope": [
+            "TEXT_FILL"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        }
+      },
+      "Utilities": {
+        "Text On Overlay": {
+          "value": "{White.1000}",
+          "type": "color.text",
+          "scope": [
+            "TEXT_FILL"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        },
+        "Text On Measurement": {
+          "value": "{Pink.200}",
+          "type": "color.text",
+          "scope": [
+            "TEXT_FILL"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        }
+      }
+    },
+    "Border": {
+      "Default": {
+        "Default": {
+          "value": "{Gray.600}",
+          "type": "color.border",
+          "scope": [
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        },
+        "Secondary": {
+          "value": "{Gray.500}",
+          "type": "color.border",
+          "scope": [
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        },
+        "tertiary": {
+          "value": "{Gray.400}",
+          "type": "color.border",
+          "scope": [
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        }
+      },
+      "Neutral": {
+        "Default": {
+          "value": "{Slate.100}",
+          "type": "color.border",
+          "scope": [
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        },
+        "Secondary": {
+          "value": "{Slate.500}",
+          "type": "color.border",
+          "scope": [
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        },
+        "tertiary": {
+          "value": "{Slate.600}",
+          "type": "color.border",
+          "scope": [
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        }
+      },
+      "Brand": {
+        "Default": {
+          "value": "{Brand.100}",
+          "type": "color.border",
+          "scope": [
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        },
+        "Secondary": {
+          "value": "{Brand.300}",
+          "type": "color.border",
+          "scope": [
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        },
+        "Tertiary": {
+          "value": "{Brand.400}",
+          "type": "color.border",
+          "scope": [
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        }
+      },
+      "Positive": {
+        "Default": {
+          "value": "{Green.200}",
+          "type": "color.border",
+          "scope": [
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        },
+        "Secondary": {
+          "value": "{Green.400}",
+          "type": "color.border",
+          "scope": [
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        },
+        "tertiary": {
+          "value": "{Green.600}",
+          "type": "color.border",
+          "scope": [
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        }
+      },
+      "Warning": {
+        "Default": {
+          "value": "{Yellow.200}",
+          "type": "color.border",
+          "scope": [
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        },
+        "Secondary": {
+          "value": "{Yellow.400}",
+          "type": "color.border",
+          "scope": [
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        },
+        "tertiary": {
+          "value": "{Yellow.600}",
+          "type": "color.border",
+          "scope": [
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        }
+      },
+      "Danger": {
+        "Default": {
+          "value": "{Red.200}",
+          "type": "color.border",
+          "scope": [
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        },
+        "Secondary": {
+          "value": "{Red.400}",
+          "type": "color.border",
+          "scope": [
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        },
+        "Tertiary": {
+          "value": "{Red.500}",
+          "type": "color.border",
+          "scope": [
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        }
+      },
+      "Disabled": {
+        "default": {
+          "value": "{Brand.600}",
+          "type": "color.border",
+          "scope": [
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        }
+      },
+      "Utilities": {
+        "Measurement": {
+          "value": "{Pink.600}",
+          "type": "color.border",
+          "scope": [
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        },
+        "Swatch": {
+          "value": "#FFFFFF3D",
+          "type": "color.border",
+          "scope": [
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        }
+      }
+    },
+    "Icon": {
+      "Default": {
+        "Default": {
+          "value": "{White.1000}",
+          "type": "color.fill",
+          "scope": [
+            "SHAPE_FILL",
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        },
+        "Secondary": {
+          "value": "{White.500}",
+          "type": "color.fill",
+          "scope": [
+            "SHAPE_FILL",
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        },
+        "Tertiary": {
+          "value": "{White.400}",
+          "type": "color.fill",
+          "scope": [
+            "SHAPE_FILL",
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        }
+      },
+      "Neutral": {
+        "Default": {
+          "value": "{Slate.200}",
+          "type": "color.fill",
+          "scope": [
+            "SHAPE_FILL",
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        },
+        "Secondary": {
+          "value": "{Slate.300}",
+          "type": "color.fill",
+          "scope": [
+            "SHAPE_FILL",
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        },
+        "Tertiary": {
+          "value": "{Slate.400}",
+          "type": "color.fill",
+          "scope": [
+            "SHAPE_FILL",
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        },
+        "On Neutral": {
+          "value": "{Slate.1000}",
+          "type": "color.fill",
+          "scope": [
+            "SHAPE_FILL",
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        },
+        "On Neutral Secondary": {
+          "value": "{Slate.100}",
+          "type": "color.fill",
+          "scope": [
+            "SHAPE_FILL",
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        },
+        "On Neutral Tertiary": {
+          "value": "{Slate.100}",
+          "type": "color.fill",
+          "scope": [
+            "SHAPE_FILL",
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        }
+      },
+      "Brand": {
+        "Default": {
+          "value": "{Brand.100}",
+          "type": "color.fill",
+          "scope": [
+            "SHAPE_FILL",
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        },
+        "Secondary": {
+          "value": "{Brand.300}",
+          "type": "color.fill",
+          "scope": [
+            "SHAPE_FILL",
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        },
+        "Tertiary": {
+          "value": "{Brand.400}",
+          "type": "color.fill",
+          "scope": [
+            "SHAPE_FILL",
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        },
+        "On Brand": {
+          "value": "{Brand.900}",
+          "type": "color.fill",
+          "scope": [
+            "SHAPE_FILL",
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        },
+        "On Brand Secondary": {
+          "value": "{Brand.100}",
+          "type": "color.fill",
+          "scope": [
+            "SHAPE_FILL",
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        },
+        "On Brand Tertiary": {
+          "value": "{Brand.100}",
+          "type": "color.fill",
+          "scope": [
+            "SHAPE_FILL",
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        }
+      },
+      "Positive": {
+        "Default": {
+          "value": "{Green.200}",
+          "type": "color.fill",
+          "scope": [
+            "SHAPE_FILL",
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        },
+        "Secondary": {
+          "value": "{Green.400}",
+          "type": "color.fill",
+          "scope": [
+            "SHAPE_FILL",
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        },
+        "Tertiary": {
+          "value": "{Green.600}",
+          "type": "color.fill",
+          "scope": [
+            "SHAPE_FILL",
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        },
+        "On Positive": {
+          "value": "{Green.100}",
+          "type": "color.fill",
+          "scope": [
+            "SHAPE_FILL",
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        },
+        "On Positive Secondary": {
+          "value": "{Green.100}",
+          "type": "color.fill",
+          "scope": [
+            "SHAPE_FILL",
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        },
+        "On Positive Tertiary": {
+          "value": "{Green.100}",
+          "type": "color.fill",
+          "scope": [
+            "SHAPE_FILL",
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        }
+      },
+      "Warning": {
+        "Default": {
+          "value": "{Yellow.200}",
+          "type": "color.fill",
+          "scope": [
+            "SHAPE_FILL",
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        },
+        "Secondary": {
+          "value": "{Yellow.400}",
+          "type": "color.fill",
+          "scope": [
+            "SHAPE_FILL",
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        },
+        "Tertiary": {
+          "value": "{Yellow.600}",
+          "type": "color.fill",
+          "scope": [
+            "SHAPE_FILL",
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        },
+        "On Warning": {
+          "value": "{Yellow.1000}",
+          "type": "color.fill",
+          "scope": [
+            "SHAPE_FILL",
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        },
+        "On Warning Secondary": {
+          "value": "{Yellow.100}",
+          "type": "color.fill",
+          "scope": [
+            "SHAPE_FILL",
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        },
+        "On Warning Tertiary": {
+          "value": "{Yellow.100}",
+          "type": "color.fill",
+          "scope": [
+            "SHAPE_FILL",
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        }
+      },
+      "Danger": {
+        "Default": {
+          "value": "{Red.200}",
+          "type": "color.fill",
+          "scope": [
+            "SHAPE_FILL",
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        },
+        "Secondary": {
+          "value": "{Red.400}",
+          "type": "color.fill",
+          "scope": [
+            "SHAPE_FILL",
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        },
+        "Tertiary": {
+          "value": "{Red.500}",
+          "type": "color.fill",
+          "scope": [
+            "SHAPE_FILL",
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        },
+        "On Danger": {
+          "value": "{Red.100}",
+          "type": "color.fill",
+          "scope": [
+            "SHAPE_FILL",
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        },
+        "On Danger Secondary": {
+          "value": "{Red.100}",
+          "type": "color.fill",
+          "scope": [
+            "SHAPE_FILL",
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        },
+        "On Danger Tertiary": {
+          "value": "{Red.100}",
+          "type": "color.fill",
+          "scope": [
+            "SHAPE_FILL",
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        }
+      },
+      "Disabled": {
+        "Default": {
+          "value": "{Brand.500}",
+          "type": "color.fill",
+          "scope": [
+            "SHAPE_FILL",
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        },
+        "On Disabled": {
+          "value": "{Brand.400}",
+          "type": "color.fill",
+          "scope": [
+            "SHAPE_FILL",
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        }
+      },
+      "Utilities": {
+        "Icon": {
+          "value": "{Pink.400}",
+          "type": "color.fill",
+          "scope": [
+            "SHAPE_FILL",
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        },
+        "Icon On Measurement": {
+          "value": "{Pink.200}",
+          "type": "color.fill",
+          "scope": [
+            "SHAPE_FILL",
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "sds dark"
+            }
+          }
+        }
+      }
+    }
+  },
+  "color-brand b light": {
+    "Background": {
+      "Default": {
+        "Default": {
+          "value": "{White.1000}",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        },
+        "Default Hover": {
+          "value": "{Gray.100}",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        },
+        "Secondary": {
+          "value": "{Gray.100}",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        },
+        "Secondary Hover": {
+          "value": "{Gray.200}",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        },
+        "Tertiary": {
+          "value": "{Gray.300}",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        },
+        "Tertiary Hover": {
+          "value": "{Gray.400}",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        }
+      },
+      "Neutral": {
+        "Default": {
+          "value": "{Slate.700}",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        },
+        "Hover": {
+          "value": "{Slate.800}",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        },
+        "Secondary": {
+          "value": "{Slate.300}",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        },
+        "Secondary Hover": {
+          "value": "{Slate.400}",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        },
+        "Tertiary": {
+          "value": "{Slate.200}",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        },
+        "Tertiary Hover": {
+          "value": "{Slate.300}",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        }
+      },
+      "Brand": {
+        "Default": {
+          "value": "{Brand B.800}",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        },
+        "Hover": {
+          "value": "{Brand.900}",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        },
+        "Secondary": {
+          "value": "{Brand.200}",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        },
+        "Secondary Hover": {
+          "value": "{Brand.300}",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        },
+        "Tertiary": {
+          "value": "{Brand.100}",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        },
+        "Tertiary Hover": {
+          "value": "{Brand.200}",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        }
+      },
+      "Positive": {
+        "Default": {
+          "value": "{Green.500}",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        },
+        "Hover": {
+          "value": "{Green.600}",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        },
+        "Secondary": {
+          "value": "{Green.200}",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        },
+        "Secondary Hover": {
+          "value": "{Green.300}",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        },
+        "Tertiary": {
+          "value": "{Green.100}",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        },
+        "Tertiary Hover": {
+          "value": "{Green.200}",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        }
+      },
+      "Warning": {
+        "Default": {
+          "value": "{Yellow.400}",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        },
+        "Hover": {
+          "value": "{Yellow.500}",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        },
+        "Secondary": {
+          "value": "{Yellow.200}",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        },
+        "Secondary Hover": {
+          "value": "{Yellow.300}",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        },
+        "Tertiary": {
+          "value": "{Yellow.100}",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        },
+        "Tertiary Hover": {
+          "value": "{Yellow.200}",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        }
+      },
+      "Danger": {
+        "Default": {
+          "value": "{Red.500}",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        },
+        "Hover": {
+          "value": "{Red.600}",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        },
+        "Secondary": {
+          "value": "{Red.200}",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        },
+        "Secondary Hover": {
+          "value": "{Red.300}",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        },
+        "Tertiary": {
+          "value": "{Red.100}",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        },
+        "Tertiary Hover": {
+          "value": "{Red.200}",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        }
+      },
+      "Disabled": {
+        "Default": {
+          "value": "{Brand.300}",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        }
+      },
+      "Utilities": {
+        "Scrim": {
+          "value": "#FFFFFFCC",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        },
+        "Blanket": {
+          "value": "#000000B2",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        },
+        "Overlay": {
+          "value": "#00000080",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        },
+        "Measurement": {
+          "value": "{Pink.200}",
+          "type": "color.background",
+          "scope": [
+            "FRAME_FILL",
+            "SHAPE_FILL",
+            "EFFECT_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        }
+      }
+    },
+    "Text": {
+      "Default": {
+        "Default": {
+          "value": "{Gray.900}",
+          "type": "color.text",
+          "scope": [
+            "TEXT_FILL"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        },
+        "Secondary": {
+          "value": "{Gray.500}",
+          "type": "color.text",
+          "scope": [
+            "TEXT_FILL"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        },
+        "Tertiary": {
+          "value": "{Gray.400}",
+          "type": "color.text",
+          "scope": [
+            "TEXT_FILL"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        }
+      },
+      "Neutral": {
+        "Default": {
+          "value": "{Slate.900}",
+          "type": "color.text",
+          "scope": [
+            "TEXT_FILL"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        },
+        "Secondary": {
+          "value": "{Slate.700}",
+          "type": "color.text",
+          "scope": [
+            "TEXT_FILL"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        },
+        "Tertiary": {
+          "value": "{Slate.600}",
+          "type": "color.text",
+          "scope": [
+            "TEXT_FILL"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        },
+        "On Neutral": {
+          "value": "{Slate.100}",
+          "type": "color.text",
+          "scope": [
+            "TEXT_FILL"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        },
+        "On Neutral Secondary": {
+          "value": "{Slate.900}",
+          "type": "color.text",
+          "scope": [
+            "TEXT_FILL"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        },
+        "On Neutral Tertiary": {
+          "value": "{Slate.800}",
+          "type": "color.text",
+          "scope": [
+            "TEXT_FILL"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        }
+      },
+      "Brand": {
+        "Default": {
+          "value": "{Brand.800}",
+          "type": "color.text",
+          "scope": [
+            "TEXT_FILL"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        },
+        "Secondary": {
+          "value": "{Brand.600}",
+          "type": "color.text",
+          "scope": [
+            "TEXT_FILL"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        },
+        "Tertiary": {
+          "value": "{Brand.500}",
+          "type": "color.text",
+          "scope": [
+            "TEXT_FILL"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        },
+        "On Brand": {
+          "value": "{Brand.100}",
+          "type": "color.text",
+          "scope": [
+            "TEXT_FILL"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        },
+        "On Brand Secondary": {
+          "value": "{Brand.900}",
+          "type": "color.text",
+          "scope": [
+            "TEXT_FILL"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        },
+        "On Brand Tertiary": {
+          "value": "{Brand.800}",
+          "type": "color.text",
+          "scope": [
+            "TEXT_FILL"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        }
+      },
+      "Positive": {
+        "Default": {
+          "value": "{Green.800}",
+          "type": "color.text",
+          "scope": [
+            "TEXT_FILL"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        },
+        "Secondary": {
+          "value": "{Green.600}",
+          "type": "color.text",
+          "scope": [
+            "TEXT_FILL"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        },
+        "Tertiary": {
+          "value": "{Green.500}",
+          "type": "color.text",
+          "scope": [
+            "TEXT_FILL"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        },
+        "On Positive": {
+          "value": "{Green.100}",
+          "type": "color.text",
+          "scope": [
+            "TEXT_FILL"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        },
+        "On Positive Secondary": {
+          "value": "{Green.800}",
+          "type": "color.text",
+          "scope": [
+            "TEXT_FILL"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        },
+        "On Positive Tertiary": {
+          "value": "{Green.800}",
+          "type": "color.text",
+          "scope": [
+            "TEXT_FILL"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        }
+      },
+      "Warning": {
+        "Default": {
+          "value": "{Yellow.900}",
+          "type": "color.text",
+          "scope": [
+            "TEXT_FILL"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        },
+        "Secondary": {
+          "value": "{Yellow.700}",
+          "type": "color.text",
+          "scope": [
+            "TEXT_FILL"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        },
+        "Tertiary": {
+          "value": "{Yellow.600}",
+          "type": "color.text",
+          "scope": [
+            "TEXT_FILL"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        },
+        "On Warning": {
+          "value": "{Yellow.1000}",
+          "type": "color.text",
+          "scope": [
+            "TEXT_FILL"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        },
+        "On Warning Secondary": {
+          "value": "{Yellow.800}",
+          "type": "color.text",
+          "scope": [
+            "TEXT_FILL"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        },
+        "On Warning Tertiary": {
+          "value": "{Yellow.900}",
+          "type": "color.text",
+          "scope": [
+            "TEXT_FILL"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        }
+      },
+      "Danger": {
+        "Default": {
+          "value": "{Red.700}",
+          "type": "color.text",
+          "scope": [
+            "TEXT_FILL"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        },
+        "Secondary": {
+          "value": "{Red.600}",
+          "type": "color.text",
+          "scope": [
+            "TEXT_FILL"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        },
+        "Tertiary": {
+          "value": "{Red.500}",
+          "type": "color.text",
+          "scope": [
+            "TEXT_FILL"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        },
+        "On Danger": {
+          "value": "{Red.100}",
+          "type": "color.text",
+          "scope": [
+            "TEXT_FILL"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        },
+        "On Danger Secondary": {
+          "value": "{Red.700}",
+          "type": "color.text",
+          "scope": [
+            "TEXT_FILL"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        },
+        "On Danger Tertiary": {
+          "value": "{Red.700}",
+          "type": "color.text",
+          "scope": [
+            "TEXT_FILL"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        }
+      },
+      "Disabled": {
+        "Default": {
+          "value": "{Brand.400}",
+          "type": "color.text",
+          "scope": [
+            "TEXT_FILL"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        },
+        "On Disabled": {
+          "value": "{Brand.400}",
+          "type": "color.text",
+          "scope": [
+            "TEXT_FILL"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        }
+      },
+      "Utilities": {
+        "Text On Overlay": {
+          "value": "{Black.1000}",
+          "type": "color.text",
+          "scope": [
+            "TEXT_FILL"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        },
+        "Text On Measurement": {
+          "value": "{Pink.800}",
+          "type": "color.text",
+          "scope": [
+            "TEXT_FILL"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        }
+      }
+    },
+    "Border": {
+      "Default": {
+        "Default": {
+          "value": "{Gray.300}",
+          "type": "color.border",
+          "scope": [
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        },
+        "Secondary": {
+          "value": "{Gray.500}",
+          "type": "color.border",
+          "scope": [
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        },
+        "tertiary": {
+          "value": "{Gray.700}",
+          "type": "color.border",
+          "scope": [
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        }
+      },
+      "Neutral": {
+        "Default": {
+          "value": "{Slate.900}",
+          "type": "color.border",
+          "scope": [
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        },
+        "Secondary": {
+          "value": "{Slate.600}",
+          "type": "color.border",
+          "scope": [
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        },
+        "tertiary": {
+          "value": "{Slate.400}",
+          "type": "color.border",
+          "scope": [
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        }
+      },
+      "Brand": {
+        "Default": {
+          "value": "{Brand.800}",
+          "type": "color.border",
+          "scope": [
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        },
+        "Secondary": {
+          "value": "{Brand.600}",
+          "type": "color.border",
+          "scope": [
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        },
+        "Tertiary": {
+          "value": "{Brand.500}",
+          "type": "color.border",
+          "scope": [
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        }
+      },
+      "Positive": {
+        "Default": {
+          "value": "{Green.800}",
+          "type": "color.border",
+          "scope": [
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        },
+        "Secondary": {
+          "value": "{Green.600}",
+          "type": "color.border",
+          "scope": [
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        },
+        "tertiary": {
+          "value": "{Green.500}",
+          "type": "color.border",
+          "scope": [
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        }
+      },
+      "Warning": {
+        "Default": {
+          "value": "{Yellow.900}",
+          "type": "color.border",
+          "scope": [
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        },
+        "Secondary": {
+          "value": "{Yellow.700}",
+          "type": "color.border",
+          "scope": [
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        },
+        "tertiary": {
+          "value": "{Yellow.600}",
+          "type": "color.border",
+          "scope": [
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        }
+      },
+      "Danger": {
+        "Default": {
+          "value": "{Red.700}",
+          "type": "color.border",
+          "scope": [
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        },
+        "Secondary": {
+          "value": "{Red.600}",
+          "type": "color.border",
+          "scope": [
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        },
+        "Tertiary": {
+          "value": "{Red.500}",
+          "type": "color.border",
+          "scope": [
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        }
+      },
+      "Disabled": {
+        "default": {
+          "value": "{Brand.400}",
+          "type": "color.border",
+          "scope": [
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        }
+      },
+      "Utilities": {
+        "Measurement": {
+          "value": "{Pink.400}",
+          "type": "color.border",
+          "scope": [
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        },
+        "Swatch": {
+          "value": "#0000003D",
+          "type": "color.border",
+          "scope": [
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        }
+      }
+    },
+    "Icon": {
+      "Default": {
+        "Default": {
+          "value": "{Gray.900}",
+          "type": "color.fill",
+          "scope": [
+            "SHAPE_FILL",
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        },
+        "Secondary": {
+          "value": "{Gray.500}",
+          "type": "color.fill",
+          "scope": [
+            "SHAPE_FILL",
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        },
+        "Tertiary": {
+          "value": "{Gray.400}",
+          "type": "color.fill",
+          "scope": [
+            "SHAPE_FILL",
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        }
+      },
+      "Neutral": {
+        "Default": {
+          "value": "{Slate.900}",
+          "type": "color.fill",
+          "scope": [
+            "SHAPE_FILL",
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        },
+        "Secondary": {
+          "value": "{Slate.700}",
+          "type": "color.fill",
+          "scope": [
+            "SHAPE_FILL",
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        },
+        "Tertiary": {
+          "value": "{Slate.600}",
+          "type": "color.fill",
+          "scope": [
+            "SHAPE_FILL",
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        },
+        "On Neutral": {
+          "value": "{Slate.100}",
+          "type": "color.fill",
+          "scope": [
+            "SHAPE_FILL",
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        },
+        "On Neutral Secondary": {
+          "value": "{Slate.900}",
+          "type": "color.fill",
+          "scope": [
+            "SHAPE_FILL",
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        },
+        "On Neutral Tertiary": {
+          "value": "{Slate.800}",
+          "type": "color.fill",
+          "scope": [
+            "SHAPE_FILL",
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        }
+      },
+      "Brand": {
+        "Default": {
+          "value": "{Brand.800}",
+          "type": "color.fill",
+          "scope": [
+            "SHAPE_FILL",
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        },
+        "Secondary": {
+          "value": "{Brand.600}",
+          "type": "color.fill",
+          "scope": [
+            "SHAPE_FILL",
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        },
+        "Tertiary": {
+          "value": "{Brand.500}",
+          "type": "color.fill",
+          "scope": [
+            "SHAPE_FILL",
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        },
+        "On Brand": {
+          "value": "{Brand.100}",
+          "type": "color.fill",
+          "scope": [
+            "SHAPE_FILL",
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        },
+        "On Brand Secondary": {
+          "value": "{Brand.900}",
+          "type": "color.fill",
+          "scope": [
+            "SHAPE_FILL",
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        },
+        "On Brand Tertiary": {
+          "value": "{Brand.800}",
+          "type": "color.fill",
+          "scope": [
+            "SHAPE_FILL",
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        }
+      },
+      "Positive": {
+        "Default": {
+          "value": "{Green.800}",
+          "type": "color.fill",
+          "scope": [
+            "SHAPE_FILL",
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        },
+        "Secondary": {
+          "value": "{Green.600}",
+          "type": "color.fill",
+          "scope": [
+            "SHAPE_FILL",
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        },
+        "Tertiary": {
+          "value": "{Green.500}",
+          "type": "color.fill",
+          "scope": [
+            "SHAPE_FILL",
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        },
+        "On Positive": {
+          "value": "{Green.100}",
+          "type": "color.fill",
+          "scope": [
+            "SHAPE_FILL",
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        },
+        "On Positive Secondary": {
+          "value": "{Green.800}",
+          "type": "color.fill",
+          "scope": [
+            "SHAPE_FILL",
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        },
+        "On Positive Tertiary": {
+          "value": "{Green.900}",
+          "type": "color.fill",
+          "scope": [
+            "SHAPE_FILL",
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        }
+      },
+      "Warning": {
+        "Default": {
+          "value": "{Yellow.900}",
+          "type": "color.fill",
+          "scope": [
+            "SHAPE_FILL",
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        },
+        "Secondary": {
+          "value": "{Yellow.700}",
+          "type": "color.fill",
+          "scope": [
+            "SHAPE_FILL",
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        },
+        "Tertiary": {
+          "value": "{Yellow.600}",
+          "type": "color.fill",
+          "scope": [
+            "SHAPE_FILL",
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        },
+        "On Warning": {
+          "value": "{Yellow.1000}",
+          "type": "color.fill",
+          "scope": [
+            "SHAPE_FILL",
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        },
+        "On Warning Secondary": {
+          "value": "{Yellow.800}",
+          "type": "color.fill",
+          "scope": [
+            "SHAPE_FILL",
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        },
+        "On Warning Tertiary": {
+          "value": "{Yellow.900}",
+          "type": "color.fill",
+          "scope": [
+            "SHAPE_FILL",
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        }
+      },
+      "Danger": {
+        "Default": {
+          "value": "{Red.700}",
+          "type": "color.fill",
+          "scope": [
+            "SHAPE_FILL",
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        },
+        "Secondary": {
+          "value": "{Red.600}",
+          "type": "color.fill",
+          "scope": [
+            "SHAPE_FILL",
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        },
+        "Tertiary": {
+          "value": "{Red.500}",
+          "type": "color.fill",
+          "scope": [
+            "SHAPE_FILL",
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        },
+        "On Danger": {
+          "value": "{Red.100}",
+          "type": "color.fill",
+          "scope": [
+            "SHAPE_FILL",
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        },
+        "On Danger Secondary": {
+          "value": "{Red.700}",
+          "type": "color.fill",
+          "scope": [
+            "SHAPE_FILL",
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        },
+        "On Danger Tertiary": {
+          "value": "{Red.700}",
+          "type": "color.fill",
+          "scope": [
+            "SHAPE_FILL",
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        }
+      },
+      "Disabled": {
+        "Default": {
+          "value": "{Brand.400}",
+          "type": "color.fill",
+          "scope": [
+            "SHAPE_FILL",
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        },
+        "On Disabled": {
+          "value": "{Brand.400}",
+          "type": "color.fill",
+          "scope": [
+            "SHAPE_FILL",
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        }
+      },
+      "Utilities": {
+        "Icon": {
+          "value": "{Pink.600}",
+          "type": "color.fill",
+          "scope": [
+            "SHAPE_FILL",
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        },
+        "Icon On Measurement": {
+          "value": "{Pink.800}",
+          "type": "color.fill",
+          "scope": [
+            "SHAPE_FILL",
+            "STROKE_COLOR"
+          ],
+          "$extensions": {
+            "tokens-studio": {
+              "mode": "brand b light"
+            }
+          }
+        }
+      }
+    }
+  },
+  "typography-primitives-default": {
+    "Family Sans": {
+      "value": "'Inter'",
+      "type": "fontFamilies",
+      "scope": [
+        "FONT_FAMILY"
+      ],
+      "$extensions": {
+        "tokens-studio": {
+          "mode": "default"
+        }
+      }
+    },
+    "Family Serif": {
+      "value": "'Noto Serif'",
+      "type": "fontFamilies",
+      "scope": [
+        "FONT_FAMILY"
+      ],
+      "$extensions": {
+        "tokens-studio": {
+          "mode": "default"
+        }
+      }
+    },
+    "Family Mono": {
+      "value": "'Roboto Mono'",
+      "type": "fontFamilies",
+      "scope": [
+        "FONT_FAMILY"
+      ],
+      "$extensions": {
+        "tokens-studio": {
+          "mode": "default"
+        }
+      }
+    },
+    "Scale 01": {
+      "value": "12",
+      "type": "float",
+      "scope": "global",
+      "$extensions": {
+        "tokens-studio": {
+          "mode": "default"
+        }
+      }
+    },
+    "Scale 02": {
+      "value": "14",
+      "type": "float",
+      "scope": "global",
+      "$extensions": {
+        "tokens-studio": {
+          "mode": "default"
+        }
+      }
+    },
+    "Scale 03": {
+      "value": "16",
+      "type": "float",
+      "scope": "global",
+      "$extensions": {
+        "tokens-studio": {
+          "mode": "default"
+        }
+      }
+    },
+    "Scale 04": {
+      "value": "20",
+      "type": "float",
+      "scope": "global",
+      "$extensions": {
+        "tokens-studio": {
+          "mode": "default"
+        }
+      }
+    },
+    "Scale 05": {
+      "value": "24",
+      "type": "float",
+      "scope": "global",
+      "$extensions": {
+        "tokens-studio": {
+          "mode": "default"
+        }
+      }
+    },
+    "Scale 06": {
+      "value": "32",
+      "type": "float",
+      "scope": "global",
+      "$extensions": {
+        "tokens-studio": {
+          "mode": "default"
+        }
+      }
+    },
+    "Scale 07": {
+      "value": "40",
+      "type": "float",
+      "scope": "global",
+      "$extensions": {
+        "tokens-studio": {
+          "mode": "default"
+        }
+      }
+    },
+    "Scale 08": {
+      "value": "48",
+      "type": "float",
+      "scope": "global",
+      "$extensions": {
+        "tokens-studio": {
+          "mode": "default"
+        }
+      }
+    },
+    "Scale 09": {
+      "value": "64",
+      "type": "float",
+      "scope": "global",
+      "$extensions": {
+        "tokens-studio": {
+          "mode": "default"
+        }
+      }
+    },
+    "Scale 10": {
+      "value": "72",
+      "type": "float",
+      "scope": "global",
+      "$extensions": {
+        "tokens-studio": {
+          "mode": "default"
+        }
+      }
+    },
+    "Weight Thin": {
+      "value": "100",
+      "type": "fontWeights",
+      "scope": [
+        "FONT_WEIGHT"
+      ],
+      "$extensions": {
+        "tokens-studio": {
+          "mode": "default"
+        }
+      }
+    },
+    "Weight Thin Italic": {
+      "value": "Thin Italic",
+      "type": "fontWeights",
+      "scope": [
+        "FONT_STYLE"
+      ],
+      "$extensions": {
+        "tokens-studio": {
+          "mode": "default"
+        }
+      }
+    },
+    "Weight Extra Light": {
+      "value": "200",
+      "type": "fontWeights",
+      "scope": [
+        "FONT_WEIGHT"
+      ],
+      "$extensions": {
+        "tokens-studio": {
+          "mode": "default"
+        }
+      }
+    },
+    "Weight Extralight Italic": {
+      "value": "Extra Light Italic",
+      "type": "fontWeights",
+      "scope": [
+        "FONT_STYLE"
+      ],
+      "$extensions": {
+        "tokens-studio": {
+          "mode": "default"
+        }
+      }
+    },
+    "Weight Light": {
+      "value": "300",
+      "type": "fontWeights",
+      "scope": [
+        "FONT_WEIGHT"
+      ],
+      "$extensions": {
+        "tokens-studio": {
+          "mode": "default"
+        }
+      }
+    },
+    "Weight Light Italic": {
+      "value": "Light Italic",
+      "type": "fontWeights",
+      "scope": [
+        "FONT_STYLE"
+      ],
+      "$extensions": {
+        "tokens-studio": {
+          "mode": "default"
+        }
+      }
+    },
+    "Weight Regular": {
+      "value": "400",
+      "type": "fontWeights",
+      "scope": [
+        "FONT_WEIGHT"
+      ],
+      "$extensions": {
+        "tokens-studio": {
+          "mode": "default"
+        }
+      }
+    },
+    "Weight Regular Italic": {
+      "value": "Italic",
+      "type": "fontWeights",
+      "scope": [
+        "FONT_STYLE"
+      ],
+      "$extensions": {
+        "tokens-studio": {
+          "mode": "default"
+        }
+      }
+    },
+    "Weight Medium": {
+      "value": "500",
+      "type": "fontWeights",
+      "scope": [
+        "FONT_WEIGHT"
+      ],
+      "$extensions": {
+        "tokens-studio": {
+          "mode": "default"
+        }
+      }
+    },
+    "Weight Medium Italic": {
+      "value": "Medium Italic",
+      "type": "fontWeights",
+      "scope": [
+        "FONT_STYLE"
+      ],
+      "$extensions": {
+        "tokens-studio": {
+          "mode": "default"
+        }
+      }
+    },
+    "Weight Semibold": {
+      "value": "600",
+      "type": "fontWeights",
+      "scope": [
+        "FONT_WEIGHT"
+      ],
+      "$extensions": {
+        "tokens-studio": {
+          "mode": "default"
+        }
+      }
+    },
+    "Weight Semibold Italic": {
+      "value": "Semi Bold Italic",
+      "type": "fontWeights",
+      "scope": [
+        "FONT_STYLE"
+      ],
+      "$extensions": {
+        "tokens-studio": {
+          "mode": "default"
+        }
+      }
+    },
+    "Weight Bold": {
+      "value": "700",
+      "type": "fontWeights",
+      "scope": [
+        "FONT_WEIGHT"
+      ],
+      "$extensions": {
+        "tokens-studio": {
+          "mode": "default"
+        }
+      }
+    },
+    "Weight Bold Italic": {
+      "value": "Bold Italic",
+      "type": "fontWeights",
+      "scope": [
+        "FONT_STYLE"
+      ],
+      "$extensions": {
+        "tokens-studio": {
+          "mode": "default"
+        }
+      }
+    },
+    "Weight Extra Bold": {
+      "value": "800",
+      "type": "fontWeights",
+      "scope": [
+        "FONT_WEIGHT"
+      ],
+      "$extensions": {
+        "tokens-studio": {
+          "mode": "default"
+        }
+      }
+    },
+    "Weight Extra Bold Italic": {
+      "value": "Extra Bold Italic",
+      "type": "fontWeights",
+      "scope": [
+        "FONT_STYLE"
+      ],
+      "$extensions": {
+        "tokens-studio": {
+          "mode": "default"
+        }
+      }
+    },
+    "Weight Black": {
+      "value": "900",
+      "type": "fontWeights",
+      "scope": [
+        "FONT_WEIGHT"
+      ],
+      "$extensions": {
+        "tokens-studio": {
+          "mode": "default"
+        }
+      }
+    },
+    "Weight Black Italic": {
+      "value": "Black Italic",
+      "type": "fontWeights",
+      "scope": [
+        "FONT_STYLE"
+      ],
+      "$extensions": {
+        "tokens-studio": {
+          "mode": "default"
+        }
+      }
+    }
+  },
+  "responsive-desktop": {
+    "Device": {
+      "value": "desktop",
+      "type": "string",
+      "scope": [
+        "ALL_SCOPES"
+      ],
+      "$extensions": {
+        "tokens-studio": {
+          "mode": "desktop"
+        }
+      }
+    },
+    "Device Width": {
+      "value": "1200px",
+      "type": "dimension",
+      "scope": [
+        "WIDTH_HEIGHT"
+      ],
+      "$extensions": {
+        "tokens-studio": {
+          "mode": "desktop"
+        }
+      }
+    },
+    "Root Font Size": {
+      "value": "{Scale 03}",
+      "type": "float",
+      "scope": "global",
+      "$extensions": {
+        "tokens-studio": {
+          "mode": "desktop"
+        }
+      }
+    },
+    "Scale": {
+      "value": "1",
+      "type": "float",
+      "scope": "global",
+      "$extensions": {
+        "tokens-studio": {
+          "mode": "desktop"
+        }
+      }
+    }
+  },
+  "responsive-mobile": {
+    "Device": {
+      "value": "mobile",
+      "type": "string",
+      "scope": [
+        "ALL_SCOPES"
+      ],
+      "$extensions": {
+        "tokens-studio": {
+          "mode": "mobile"
+        }
+      }
+    },
+    "Device Width": {
+      "value": "375px",
+      "type": "dimension",
+      "scope": [
+        "WIDTH_HEIGHT"
+      ],
+      "$extensions": {
+        "tokens-studio": {
+          "mode": "mobile"
+        }
+      }
+    },
+    "Root Font Size": {
+      "value": "{Scale 03}",
+      "type": "float",
+      "scope": "global",
+      "$extensions": {
+        "tokens-studio": {
+          "mode": "mobile"
+        }
+      }
+    },
+    "Scale": {
+      "value": "1.25",
+      "type": "float",
+      "scope": "global",
+      "$extensions": {
+        "tokens-studio": {
+          "mode": "mobile"
+        }
+      }
+    }
+  },
+  "responsive-tablet": {
+    "Device": {
+      "value": "tablet",
+      "type": "string",
+      "scope": [
+        "ALL_SCOPES"
+      ],
+      "$extensions": {
+        "tokens-studio": {
+          "mode": "tablet"
+        }
+      }
+    },
+    "Device Width": {
+      "value": "768px",
+      "type": "dimension",
+      "scope": [
+        "WIDTH_HEIGHT"
+      ],
+      "$extensions": {
+        "tokens-studio": {
+          "mode": "tablet"
+        }
+      }
+    },
+    "Root Font Size": {
+      "value": "{Scale 03}",
+      "type": "float",
+      "scope": "global",
+      "$extensions": {
+        "tokens-studio": {
+          "mode": "tablet"
+        }
+      }
+    },
+    "Scale": {
+      "value": "1",
+      "type": "float",
+      "scope": "global",
+      "$extensions": {
+        "tokens-studio": {
+          "mode": "tablet"
+        }
+      }
+    }
+  },
+  "size-default": {
+    "Space": {
+      "0": {
+        "value": "0px",
+        "type": "spacing",
+        "scope": [
+          "GAP"
+        ],
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "default"
+          }
+        }
+      },
+      "100": {
+        "value": "4px",
+        "type": "spacing",
+        "scope": [
+          "GAP"
+        ],
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "default"
+          }
+        }
+      },
+      "150": {
+        "value": "6px",
+        "type": "spacing",
+        "scope": [
+          "GAP"
+        ],
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "default"
+          }
+        }
+      },
+      "200": {
+        "value": "8px",
+        "type": "spacing",
+        "scope": [
+          "GAP"
+        ],
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "default"
+          }
+        }
+      },
+      "300": {
+        "value": "12px",
+        "type": "spacing",
+        "scope": [
+          "GAP"
+        ],
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "default"
+          }
+        }
+      },
+      "400": {
+        "value": "16px",
+        "type": "spacing",
+        "scope": [
+          "GAP"
+        ],
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "default"
+          }
+        }
+      },
+      "600": {
+        "value": "24px",
+        "type": "spacing",
+        "scope": [
+          "GAP"
+        ],
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "default"
+          }
+        }
+      },
+      "800": {
+        "value": "32px",
+        "type": "spacing",
+        "scope": [
+          "GAP"
+        ],
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "default"
+          }
+        }
+      },
+      "1200": {
+        "value": "48px",
+        "type": "spacing",
+        "scope": [
+          "GAP"
+        ],
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "default"
+          }
+        }
+      },
+      "1600": {
+        "value": "64px",
+        "type": "spacing",
+        "scope": [
+          "GAP"
+        ],
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "default"
+          }
+        }
+      },
+      "2400": {
+        "value": "96px",
+        "type": "spacing",
+        "scope": [
+          "GAP"
+        ],
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "default"
+          }
+        }
+      },
+      "4000": {
+        "value": "160px",
+        "type": "spacing",
+        "scope": [
+          "GAP"
+        ],
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "default"
+          }
+        }
+      },
+      "050": {
+        "value": "2px",
+        "type": "spacing",
+        "scope": [
+          "GAP"
+        ],
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "default"
+          }
+        }
+      },
+      "Negative 100": {
+        "value": "-4px",
+        "type": "spacing",
+        "scope": [
+          "GAP"
+        ],
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "default"
+          }
+        }
+      },
+      "Negative 200": {
+        "value": "-8px",
+        "type": "spacing",
+        "scope": [
+          "GAP"
+        ],
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "default"
+          }
+        }
+      },
+      "Negative 300": {
+        "value": "-12px",
+        "type": "spacing",
+        "scope": [
+          "GAP"
+        ],
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "default"
+          }
+        }
+      },
+      "Negative 400": {
+        "value": "-16px",
+        "type": "spacing",
+        "scope": [
+          "GAP"
+        ],
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "default"
+          }
+        }
+      },
+      "Negative 600": {
+        "value": "-24px",
+        "type": "spacing",
+        "scope": [
+          "GAP"
+        ],
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "default"
+          }
+        }
+      }
+    },
+    "Radius": {
+      "100": {
+        "value": "4px",
+        "type": "borderRadius",
+        "scope": [
+          "CORNER_RADIUS"
+        ],
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "default"
+          }
+        }
+      },
+      "200": {
+        "value": "8px",
+        "type": "borderRadius",
+        "scope": [
+          "CORNER_RADIUS"
+        ],
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "default"
+          }
+        }
+      },
+      "400": {
+        "value": "16px",
+        "type": "borderRadius",
+        "scope": [
+          "CORNER_RADIUS"
+        ],
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "default"
+          }
+        }
+      },
+      "Full": {
+        "value": "9999px",
+        "type": "borderRadius",
+        "scope": [
+          "CORNER_RADIUS"
+        ],
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "default"
+          }
+        }
+      }
+    },
+    "Blur": {
+      "100": {
+        "value": "4",
+        "type": "float",
+        "scope": [
+          "ALL_SCOPES"
+        ],
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "default"
+          }
+        }
+      }
+    },
+    "Depth": {
+      "0": {
+        "value": "0px",
+        "type": "blurRadius",
+        "scope": [
+          "EFFECT_FLOAT"
+        ],
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "default"
+          }
+        }
+      },
+      "100": {
+        "value": "4px",
+        "type": "blurRadius",
+        "scope": [
+          "EFFECT_FLOAT"
+        ],
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "default"
+          }
+        }
+      },
+      "200": {
+        "value": "8px",
+        "type": "blurRadius",
+        "scope": [
+          "EFFECT_FLOAT"
+        ],
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "default"
+          }
+        }
+      },
+      "400": {
+        "value": "16px",
+        "type": "blurRadius",
+        "scope": [
+          "EFFECT_FLOAT"
+        ],
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "default"
+          }
+        }
+      },
+      "800": {
+        "value": "32px",
+        "type": "blurRadius",
+        "scope": [
+          "EFFECT_FLOAT"
+        ],
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "default"
+          }
+        }
+      },
+      "1200": {
+        "value": "48px",
+        "type": "blurRadius",
+        "scope": [
+          "EFFECT_FLOAT"
+        ],
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "default"
+          }
+        }
+      },
+      "025": {
+        "value": "1px",
+        "type": "blurRadius",
+        "scope": [
+          "EFFECT_FLOAT"
+        ],
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "default"
+          }
+        }
+      },
+      "Negative 025": {
+        "value": "-1px",
+        "type": "blurRadius",
+        "scope": [
+          "EFFECT_FLOAT"
+        ],
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "default"
+          }
+        }
+      },
+      "Negative 100": {
+        "value": "-4px",
+        "type": "blurRadius",
+        "scope": [
+          "EFFECT_FLOAT"
+        ],
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "default"
+          }
+        }
+      },
+      "Negative 200": {
+        "value": "-8px",
+        "type": "blurRadius",
+        "scope": [
+          "EFFECT_FLOAT"
+        ],
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "default"
+          }
+        }
+      },
+      "Negative 400": {
+        "value": "-16px",
+        "type": "blurRadius",
+        "scope": [
+          "EFFECT_FLOAT"
+        ],
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "default"
+          }
+        }
+      },
+      "Negative 800": {
+        "value": "-32px",
+        "type": "blurRadius",
+        "scope": [
+          "EFFECT_FLOAT"
+        ],
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "default"
+          }
+        }
+      },
+      "Negative 1200": {
+        "value": "-48px",
+        "type": "blurRadius",
+        "scope": [
+          "EFFECT_FLOAT"
+        ],
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "default"
+          }
+        }
+      }
+    },
+    "Stroke": {
+      "Border": {
+        "value": "1",
+        "type": "float",
+        "scope": [
+          "ALL_SCOPES"
+        ],
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "default"
+          }
+        }
+      },
+      "Focus Ring": {
+        "value": "2",
+        "type": "float",
+        "scope": [
+          "ALL_SCOPES"
+        ],
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "default"
+          }
+        }
+      }
+    },
+    "Icon": {
+      "Small": {
+        "value": "24",
+        "type": "float",
+        "scope": [
+          "ALL_SCOPES"
+        ],
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "default"
+          }
+        }
+      },
+      "Medium": {
+        "value": "32",
+        "type": "float",
+        "scope": [
+          "ALL_SCOPES"
+        ],
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "default"
+          }
+        }
+      },
+      "Large": {
+        "value": "40",
+        "type": "float",
+        "scope": [
+          "ALL_SCOPES"
+        ],
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "default"
+          }
+        }
+      }
+    }
+  },
+  "typography-mode 1": {
+    "Title Hero": {
+      "Font Family": {
+        "value": "'{Family Sans}'",
+        "type": "fontFamilies",
+        "scope": [
+          "FONT_FAMILY"
+        ],
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "mode 1"
+          }
+        }
+      },
+      "Size": {
+        "value": "{Scale 10}px",
+        "type": "fontSize",
+        "scope": [
+          "FONT_SIZE"
+        ],
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "mode 1"
+          }
+        }
+      },
+      "Font Weight": {
+        "value": "{Weight Bold}",
+        "type": "fontWeights",
+        "scope": [
+          "FONT_WEIGHT"
+        ],
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "mode 1"
+          }
+        }
+      }
+    },
+    "Title Page": {
+      "Font Family": {
+        "value": "'{Family Sans}'",
+        "type": "fontFamilies",
+        "scope": [
+          "FONT_FAMILY"
+        ],
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "mode 1"
+          }
+        }
+      },
+      "Size Small": {
+        "value": "{Scale 07}px",
+        "type": "fontSize",
+        "scope": [
+          "FONT_SIZE"
+        ],
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "mode 1"
+          }
+        }
+      },
+      "Size Base": {
+        "value": "{Scale 08}px",
+        "type": "fontSize",
+        "scope": [
+          "FONT_SIZE"
+        ],
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "mode 1"
+          }
+        }
+      },
+      "Size Large": {
+        "value": "{Scale 09}px",
+        "type": "fontSize",
+        "scope": [
+          "FONT_SIZE"
+        ],
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "mode 1"
+          }
+        }
+      },
+      "Font Weight": {
+        "value": "{Weight Bold}",
+        "type": "fontWeights",
+        "scope": [
+          "FONT_WEIGHT"
+        ],
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "mode 1"
+          }
+        }
+      }
+    },
+    "Subtitle": {
+      "Font Family": {
+        "value": "'{Family Sans}'",
+        "type": "fontFamilies",
+        "scope": [
+          "FONT_FAMILY"
+        ],
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "mode 1"
+          }
+        }
+      },
+      "Size Small": {
+        "value": "{Scale 05}px",
+        "type": "fontSize",
+        "scope": [
+          "FONT_SIZE"
+        ],
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "mode 1"
+          }
+        }
+      },
+      "Size Base": {
+        "value": "{Scale 06}px",
+        "type": "fontSize",
+        "scope": [
+          "FONT_SIZE"
+        ],
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "mode 1"
+          }
+        }
+      },
+      "Size Large": {
+        "value": "{Scale 07}px",
+        "type": "fontSize",
+        "scope": [
+          "FONT_SIZE"
+        ],
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "mode 1"
+          }
+        }
+      },
+      "Font Weight": {
+        "value": "{Weight Regular}",
+        "type": "fontWeights",
+        "scope": [
+          "FONT_WEIGHT"
+        ],
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "mode 1"
+          }
+        }
+      }
+    },
+    "Heading": {
+      "Font Family": {
+        "value": "'{Family Sans}'",
+        "type": "fontFamilies",
+        "scope": [
+          "FONT_FAMILY"
+        ],
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "mode 1"
+          }
+        }
+      },
+      "Size Small": {
+        "value": "{Scale 04}px",
+        "type": "fontSize",
+        "scope": [
+          "FONT_SIZE"
+        ],
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "mode 1"
+          }
+        }
+      },
+      "Size Base": {
+        "value": "{Scale 05}px",
+        "type": "fontSize",
+        "scope": [
+          "FONT_SIZE"
+        ],
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "mode 1"
+          }
+        }
+      },
+      "Size Large": {
+        "value": "{Scale 06}px",
+        "type": "fontSize",
+        "scope": [
+          "FONT_SIZE"
+        ],
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "mode 1"
+          }
+        }
+      },
+      "Font Weight": {
+        "value": "{Weight Semibold}",
+        "type": "fontWeights",
+        "scope": [
+          "FONT_WEIGHT"
+        ],
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "mode 1"
+          }
+        }
+      }
+    },
+    "Subheading": {
+      "Font Family": {
+        "value": "'{Family Sans}'",
+        "type": "fontFamilies",
+        "scope": [
+          "FONT_FAMILY"
+        ],
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "mode 1"
+          }
+        }
+      },
+      "Size Small": {
+        "value": "{Scale 03}px",
+        "type": "fontSize",
+        "scope": [
+          "FONT_SIZE"
+        ],
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "mode 1"
+          }
+        }
+      },
+      "Size Medium": {
+        "value": "{Scale 04}px",
+        "type": "fontSize",
+        "scope": [
+          "FONT_SIZE"
+        ],
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "mode 1"
+          }
+        }
+      },
+      "Size Large": {
+        "value": "{Scale 05}px",
+        "type": "fontSize",
+        "scope": [
+          "FONT_SIZE"
+        ],
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "mode 1"
+          }
+        }
+      },
+      "Font Weight": {
+        "value": "{Weight Regular}",
+        "type": "fontWeights",
+        "scope": [
+          "FONT_WEIGHT"
+        ],
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "mode 1"
+          }
+        }
+      }
+    },
+    "Body": {
+      "Font Family": {
+        "value": "'{Family Sans}'",
+        "type": "fontFamilies",
+        "scope": [
+          "FONT_FAMILY"
+        ],
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "mode 1"
+          }
+        }
+      },
+      "Size Small": {
+        "value": "{Scale 02}px",
+        "type": "fontSize",
+        "scope": [
+          "FONT_SIZE"
+        ],
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "mode 1"
+          }
+        }
+      },
+      "Size Medium": {
+        "value": "{Scale 03}px",
+        "type": "fontSize",
+        "scope": [
+          "FONT_SIZE"
+        ],
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "mode 1"
+          }
+        }
+      },
+      "Size Large": {
+        "value": "{Scale 04}px",
+        "type": "fontSize",
+        "scope": [
+          "FONT_SIZE"
+        ],
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "mode 1"
+          }
+        }
+      },
+      "Font Weight Regular": {
+        "value": "{Weight Regular}",
+        "type": "fontWeights",
+        "scope": [
+          "FONT_WEIGHT"
+        ],
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "mode 1"
+          }
+        }
+      },
+      "Font Weight Strong": {
+        "value": "{Weight Semibold}",
+        "type": "fontWeights",
+        "scope": [
+          "FONT_WEIGHT"
+        ],
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "mode 1"
+          }
+        }
+      },
+      "Font Style Italic": {
+        "value": "{Weight Regular Italic}",
+        "type": "string",
+        "scope": [
+          "ALL_SCOPES"
+        ],
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "mode 1"
+          }
+        }
+      }
+    },
+    "Code": {
+      "Font Family": {
+        "value": "'{Family Mono}'",
+        "type": "fontFamilies",
+        "scope": [
+          "FONT_FAMILY"
+        ],
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "mode 1"
+          }
+        }
+      },
+      "Size Small": {
+        "value": "{Body.Size Small}px",
+        "type": "fontSize",
+        "scope": [
+          "FONT_SIZE"
+        ],
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "mode 1"
+          }
+        }
+      },
+      "Size Base": {
+        "value": "{Body.Size Medium}px",
+        "type": "fontSize",
+        "scope": [
+          "FONT_SIZE"
+        ],
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "mode 1"
+          }
+        }
+      },
+      "Size Large": {
+        "value": "{Body.Size Large}px",
+        "type": "fontSize",
+        "scope": [
+          "FONT_SIZE"
+        ],
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "mode 1"
+          }
+        }
+      },
+      "Font Weight": {
+        "value": "{Body.Font Weight Regular}",
+        "type": "fontWeights",
+        "scope": [
+          "FONT_WEIGHT"
+        ],
+        "$extensions": {
+          "tokens-studio": {
+            "mode": "mode 1"
+          }
+        }
+      }
+    }
+  }
+}
