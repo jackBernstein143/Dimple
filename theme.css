@@ -1,0 +1,13 @@
+:root {
+  --ds-bg: var(--background-neutral-default);
+  --ds-bg-hover: var(--background-neutral-hover);
+  --ds-surface-2: var(--background-neutral-secondary);
+  --ds-surface-3: var(--background-neutral-tertiary);
+  --ds-text: var(--text-neutral-default);
+  --ds-text-muted: var(--text-neutral-secondary);
+  --ds-border: var(--border-neutral-default);
+  --ds-accent: var(--background-brand-default);
+  --ds-accent-hover: var(--background-brand-hover);
+  --ds-on-accent: var(--text-brand-on brand);
+  --ds-focus: var(--border-brand-default);
+}

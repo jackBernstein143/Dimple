@@ -1,0 +1,10 @@
+You are generating a production-ready React component that uses my portable design-system variables.
+Rules:
+- Use ONLY CSS variables defined in theme.css: --ds-bg, --ds-surface-2, --ds-surface-3, --ds-text, --ds-text-muted, --ds-border, --ds-accent, --ds-accent-hover, --ds-on-accent, --ds-focus.
+- Do NOT hardcode hex values or spacing; prefer CSS variables where possible.
+- Accessibility matters: correct roles, keyboard focus, focus ring using var(--ds-focus).
+- Provide a single file: <Component>.tsx using plain React and classNames (no external deps).
+- Export with React.forwardRef when appropriate.
+- Include minimal inline styles or a small CSS block string if needed.
+
+Given the selected Figma component in Dev Mode MCP, implement it as <Component>.tsx with props that match the component’s variants. Also output a short usage example.

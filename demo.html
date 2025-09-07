@@ -1,0 +1,36 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Dimple Tokens — Demo</title>
+  <link rel="stylesheet" href="./tokens.css" />
+  <link rel="stylesheet" href="./theme.css" />
+  <style>
+    body { font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial; margin:0; padding:24px; }
+    .sw { display:flex; align-items:center; gap:12px; margin:8px 0; }
+    .box { width:28px; height:28px; border-radius:6px; border:1px solid var(--ds-border); }
+    .row { display:flex; gap:16px; align-items:center; flex-wrap:wrap; }
+    .kbd { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace; background:#f3f4f6; padding:2px 6px; border-radius:6px; border:1px solid #e5e7eb;}
+  </style>
+</head>
+<body>
+  <h1>Dimple Tokens (Light/Dark)</h1>
+  <p>Toggle: <button id="toggle">Dark Mode</button></p>
+  <div class="row">
+    <div class="sw"><div class="box" style="background:var(--ds-bg)"></div> <code>--ds-bg</code></div>
+    <div class="sw"><div class="box" style="background:var(--ds-surface-2)"></div> <code>--ds-surface-2</code></div>
+    <div class="sw"><div class="box" style="background:var(--ds-surface-3)"></div> <code>--ds-surface-3</code></div>
+    <div class="sw"><div class="box" style="background:var(--ds-accent)"></div> <code>--ds-accent</code></div>
+    <div class="sw"><div class="box" style="background:var(--ds-focus)"></div> <code>--ds-focus</code></div>
+  </div>
+  <p style="color:var(--ds-text)">Text uses <code>--ds-text</code>, and muted text uses <span style="color:var(--ds-text-muted)">--ds-text-muted</span>.</p>
+  <script>
+    document.getElementById('toggle').addEventListener('click', () => {
+      const root = document.documentElement;
+      const dark = root.getAttribute('data-theme') === 'dark';
+      root.setAttribute('data-theme', dark ? 'light' : 'dark');
+    });
+  </script>
+</body>
+</html>
